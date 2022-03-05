@@ -1,19 +1,19 @@
 {
   "menuItems": [
     {
-      "name": "Quick Start",
+      "name": "Kurulum",
       "menu": [
         ""
       ]
     },
     {
-      "name": "Getting Started",
+      "name": "Başlarken",
       "menu": [
-        "Manual Installation"
+        "Profil Ayarları"
       ]
     },
     {
-      "name": "Configuration"
+      "name": "Konfigürasyon"
     }
   ]
 }
