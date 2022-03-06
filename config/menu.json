@@ -1,19 +1,19 @@
 {
   "menuItems": [
     {
-      "name": "Quick Start",
+      "name": "Akademi",
       "menu": [
         ""
       ]
     },
     {
-      "name": "Getting Started",
+      "name": "Kontrol Paneli",
       "menu": [
-        "Manual Installation"
+        "Ürünler"
       ]
     },
     {
-      "name": "Configuration"
+      "name": "Siparişler"
     }
   ]
 }
